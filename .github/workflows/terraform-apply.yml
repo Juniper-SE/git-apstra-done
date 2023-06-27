@@ -2,7 +2,7 @@ name: "Terraform Apply"
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 env:
   TF_CLOUD_ORGANIZATION: "${{ vars.TF_CLOUD_ORGANIZATION }}"
