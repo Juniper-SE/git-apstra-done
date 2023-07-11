@@ -7,3 +7,6 @@ To use the project, you will need the following
 - A github account, to set up a repo
 
 This project uses this tutorial https://developer.hashicorp.com/terraform/tutorials/automation/github-actions as the starting point and inspiration.
+
+This project has a sub-directory apstra_lab that has the tf files to execute the lab here : https://cloudlabs.apstra.com/labguide/Cloudlabs/4.1.2/lab-terraform/labTF-1-intro.html
+ 
